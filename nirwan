@@ -1,0 +1,23 @@
+<html>
+<head>
+  <title>Frame</title>
+  </head>
+  <body>
+    <center>Table Mahasiswa<center>
+    <table width=200 border="1">
+	<tr>
+		<td>Nama</td>
+		<td>:</td>
+		<td>nirwan</td>
+	</tr>
+	<tr>
+		<td>NIM</td>
+		<td>:</td>
+		<td>215280034</td>
+	</tr>	
+	<tr>
+		<td>Kelas</td>
+		<td>:</td>
+		<td>A</td>
+	</tr>
+	</table>
